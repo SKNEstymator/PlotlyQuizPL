@@ -1,0 +1,12 @@
+name: plotlyQuizPL
+title: plotlyQuizPL
+username:
+account: plotlyquizpl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 601421
+bundleId: 1736862
+url: https://plotlyquizpl.shinyapps.io/plotlyQuizPL/
+when: 1543858078.63367
+asMultiple: FALSE
+asStatic: FALSE
